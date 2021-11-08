@@ -1,0 +1,2 @@
+# crossy-road
+The objective of Crossy Road is to move a character through an endless path of obstacles as far as possible without dying. By default, the character is a chicken that must cross a series of busy roads, rivers, and active train tracks, but there are hundreds of other characters, and depending on the character the environment around also changes, with the obstacles varying. For example, when playing as the Astronaut, the environment is space and obstacles include asteroids.
